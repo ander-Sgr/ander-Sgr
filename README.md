@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ander-Sgr&show_icons=true)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,react,php,laravel)](https://skillicons.dev)
+
+---
+| [![ander-Sgr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ander-Sgr&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=onedark)](https://github.com/surfi89?tab=repositories) | [![ander-Sgr's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ander-Sgr&layout=compact&hide_border=true&theme=onedark)](https://github.com/surfi89?tab=repositories) |
+|:-:|:-:|
+
+---
 
 <!--
 **ander-Sgr/ander-Sgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
