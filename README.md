@@ -16,7 +16,7 @@
 
 ### Contact
 
-- 📫 Can you find me in linkedin: [Tu perfil de LinkedIn](www.linkedin.com/in/anderson-estrella-barreto)
+- 📫 Can you find me in linkedin: [Linkedin Profile](www.linkedin.com/in/anderson-estrella-barreto)
 
 ¡Thanks for watching my profile!
 
